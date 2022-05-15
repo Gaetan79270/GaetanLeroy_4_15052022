@@ -703,8 +703,10 @@ strong {
 }
 
 .social {
-    max-width: 400px;
-    margin: auto auto auto auto;
+    display: flex;
+    gap: 95px;
+    max-width: 600px;
+    margin: 30px auto 30px auto;
 }
 
 h2 {
@@ -774,7 +776,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #3c4c57;
+    background-color: #B85C31;
 }
 
 .tc-white {
